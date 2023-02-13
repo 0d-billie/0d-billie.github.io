@@ -1,9 +1,9 @@
 ---
-title: Listening List
+title: Gaming List
 subtitle: a list of essential listening
 layout: "page"
-icon: fa-headphones
-order: 3
+icon: fa-gamepad
+order: 5
 ---
 
 A semi-canonical list of my favourite albums
